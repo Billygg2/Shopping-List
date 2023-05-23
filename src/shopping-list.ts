@@ -1,3 +1,7 @@
+// Shopping List
+
+// La lista debe ser una matriz que contenga varias sub-matrices.
+
 let myList: [string, number][] = [
     ["cereal", 3],
     ["milk", 2],

@@ -6,6 +6,7 @@ let myList = [
     ["juice", 2],
     ["eggs", 12]
 ];
+console.log(myList);
 console.log(myList[0]);
 console.log(myList[4]);
 console.log(myList[1]);
